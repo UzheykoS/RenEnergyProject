@@ -1,0 +1,11 @@
+{
+  "globalDependencies": {
+    "react": "registry:dt/react#0.14.0+20161008064207",
+    "react-css-modules": "registry:dt/react-css-modules#3.7.9+20160805170511",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "react-redux": "registry:dt/react-redux#4.4.0+20160908183346",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-actions": "registry:dt/redux-actions#0.8.0+20160521154116",
+    "require": "registry:dt/require#2.1.20+20160919185614" 
+  }
+}
